@@ -13,3 +13,24 @@ INSERT INTO tecnicos(nombre, apellido, telefono, email) VALUES('Pablo', 'Rodrigu
 INSERT INTO tecnicos(nombre, apellido, telefono, email) VALUES('Kate', 'Martinez', '3204124588','prueba14@ias.com');
 INSERT INTO tecnicos(nombre, apellido, telefono, email) VALUES('Francisco', 'Robles', '3204124588','prueba15@ias.com');
 INSERT INTO tecnicos(nombre, apellido, telefono, email) VALUES('Javier', 'Peña', '3204124588','prueba16@ias.com');
+
+INSERT INTO servicios(descripcion, fecha_inicio, fecha_final, tecnico_id) VALUES('servicio de mantenimiento', '2021-10-05 16:00:00', '2021-10-05 18:05:58', 1);
+INSERT INTO servicios(descripcion, fecha_inicio, fecha_final, tecnico_id) VALUES('servicio de mantenimiento', '2021-10-05 16:00:00', '2021-10-05 18:05:58', 2);
+INSERT INTO servicios(descripcion, fecha_inicio, fecha_final, tecnico_id) VALUES('servicio de mantenimiento', '2021-10-05 16:00:00', '2021-10-05 18:05:58', 3);
+INSERT INTO servicios(descripcion, fecha_inicio, fecha_final, tecnico_id) VALUES('servicio de mantenimiento', '2021-10-05 16:00:00', '2021-10-05 18:05:58', 4);
+INSERT INTO servicios(descripcion, fecha_inicio, fecha_final, tecnico_id) VALUES('servicio de mantenimiento', '2021-10-05 16:00:00', '2021-10-05 18:05:58', 5);
+INSERT INTO servicios(descripcion, fecha_inicio, fecha_final, tecnico_id) VALUES('servicio de mantenimiento', '2021-10-05 16:00:00', '2021-10-05 18:05:58', 6);
+INSERT INTO servicios(descripcion, fecha_inicio, fecha_final, tecnico_id) VALUES('servicio de mantenimiento', '2021-10-05 16:00:00', '2021-10-05 18:05:58', 7);
+INSERT INTO servicios(descripcion, fecha_inicio, fecha_final, tecnico_id) VALUES('servicio de mantenimiento', '2021-10-05 16:00:00', '2021-10-05 18:05:58', 8);
+INSERT INTO servicios(descripcion, fecha_inicio, fecha_final, tecnico_id) VALUES('servicio de mantenimiento', '2021-10-05 16:00:00', '2021-10-05 18:05:58', 9);
+INSERT INTO servicios(descripcion, fecha_inicio, fecha_final, tecnico_id) VALUES('servicio de mantenimiento', '2021-10-05 16:00:00', '2021-10-05 18:05:58', 10);
+INSERT INTO servicios(descripcion, fecha_inicio, fecha_final, tecnico_id) VALUES('servicio de mantenimiento', '2021-10-05 16:00:00', '2021-10-05 18:05:58', 1);
+INSERT INTO servicios(descripcion, fecha_inicio, fecha_final, tecnico_id) VALUES('servicio de mantenimiento', '2021-10-05 16:00:00', '2021-10-05 18:05:58', 2);
+INSERT INTO servicios(descripcion, fecha_inicio, fecha_final, tecnico_id) VALUES('servicio de mantenimiento', '2021-10-05 16:00:00', '2021-10-05 18:05:58', 3);
+INSERT INTO servicios(descripcion, fecha_inicio, fecha_final, tecnico_id) VALUES('servicio de mantenimiento', '2021-10-05 16:00:00', '2021-10-05 18:05:58', 4);
+INSERT INTO servicios(descripcion, fecha_inicio, fecha_final, tecnico_id) VALUES('servicio de mantenimiento', '2021-10-05 16:00:00', '2021-10-05 18:05:58', 5);
+INSERT INTO servicios(descripcion, fecha_inicio, fecha_final, tecnico_id) VALUES('servicio de mantenimiento', '2021-10-05 16:00:00', '2021-10-05 18:05:58', 6);
+INSERT INTO servicios(descripcion, fecha_inicio, fecha_final, tecnico_id) VALUES('servicio de mantenimiento', '2021-10-05 16:00:00', '2021-10-05 18:05:58', 7);
+INSERT INTO servicios(descripcion, fecha_inicio, fecha_final, tecnico_id) VALUES('servicio de mantenimiento', '2021-10-05 16:00:00', '2021-10-05 18:05:58', 8);
+INSERT INTO servicios(descripcion, fecha_inicio, fecha_final, tecnico_id) VALUES('servicio de mantenimiento', '2021-10-05 16:00:00', '2021-10-05 18:05:58', 9);
+INSERT INTO servicios(descripcion, fecha_inicio, fecha_final, tecnico_id) VALUES('servicio de mantenimiento', '2021-10-05 16:00:00', '2021-10-05 18:05:58', 10);
